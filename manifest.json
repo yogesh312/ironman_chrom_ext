@@ -1,0 +1,11 @@
+{
+    "name": "Extensions release 3",
+    "description": "glowing, animated new tab in (release 3) Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "chrome_url_overrides" : { 
+
+        "newtab": "hello.html"
+        }
+
+    }
