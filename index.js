@@ -19,4 +19,4 @@ const setClock = () => {
 }
 
 setClock();
-setInterval(setClock, 1000);
+setInterval(setClock, 1000);//async is used with clock fn
